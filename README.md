@@ -1,5 +1,5 @@
 # touchbar-coffebutton
-Little Applescript to notify your kith and kin that it is time for a coffee brake.
+Little Applescript to notify your kith and kin that it is time for a coffee break.
 
 # Setup
 - Go to user/library/messages/chat.db-wal
