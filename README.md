@@ -7,4 +7,4 @@ Little Applescript to notify your kith and kin that it is time for a coffee brak
 - Replace "Insert ChatID here" with the ChatID
 - Run Script for example via BetterTouchTool Button
 
-[alt chatUserID](https://imgur.com/rpOVZc5)
+![alt chatUserID](https://imgur.com/rpOVZc5)
