@@ -1,4 +1,4 @@
-# touchbar-coffebutton
+# touchbar-coffeebutton
 Little Applescript to notify your kith and kin that it is time for a coffee break.
 
 # Setup
