@@ -3,8 +3,8 @@ Little Applescript to notify your kith and kin that it is time for a coffee brak
 
 # Setup
 - Go to user/library/messages/chat.db-wal
-- Search the name of the "Coffee!" chat
-- Replace "Insert ChatID here" with the ChatID
+- Search for the "Coffee!" chat
+- Replace "InsertChatIDhere" with the ChatID
 - Run Script for example via BetterTouchTool Button
 
 ![Imgur](https://i.imgur.com/UGa8VBV.png)
